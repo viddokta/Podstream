@@ -1,10 +1,10 @@
 # Podstream
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/rishavchanda/Podstream)
-![GitHub forks](https://img.shields.io/github/forks/rishavchanda/Podstream)
-![GitHub starts](https://img.shields.io/github/stars/rishavchanda/Podstream)
-![GitHub license](https://img.shields.io/github/license/rishavchanda/Podstream)
+![GitHub issues](https://img.shields.io/github/issues/viddokta/Podstream)
+![GitHub forks](https://img.shields.io/github/forks/viddokta/Podstream)
+![GitHub starts](https://img.shields.io/github/stars/viddokta/Podstream)
+![GitHub license](https://img.shields.io/github/license/viddokta/Podstream)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
 ![CSS](https://img.shields.io/badge/CSS-Styles-pink)
